@@ -1,3 +1,3 @@
-# pli88.github.io
+Feel free to use the theme, please attribute though.
 
-Rants by pli88
+[@muanchiou](http://twitter.com/muanchiou)
