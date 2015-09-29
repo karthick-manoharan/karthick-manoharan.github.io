@@ -14,4 +14,4 @@ hands over his mobile and asks her to shake the mobile.</p>
 
 <P>As this happens when the mobile is shaked the location is recored and shown in the map for finding og beautiful women. If the women enters the numner a hearting will fly up from the location in the map.</P>
 
-<h4>I dont have any readers other than me for my blog. If you find this intersting. I would like to work with you on this!</h4>
+<h4>If you find this intersting. connect with me we can work together :D!</h4>
