@@ -243,7 +243,7 @@ hr {
   width: 30%;
   border: 0;
   border-top: 1px double #eee;
-  border-bottom: 1px double #eee; }
+}
 
 article, .pagination {
   max-width: 500px; }

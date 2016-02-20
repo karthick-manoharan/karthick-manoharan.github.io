@@ -1,10 +1,8 @@
 
 {% if page.url == "/" %}
-  <i><h4>Note: This website design is not yet completed.</h4></i>
   <nav class="bold">
     {% for link in site.links %}
       <a id="ind-{{ link.name | downcase }}" href="{{ link.url }}">{{ link.name }}</a>&nbsp;&nbsp;&nbsp;&nbsp;
     {% endfor %}
   </nav>
 {% endif %}
-<hr />
