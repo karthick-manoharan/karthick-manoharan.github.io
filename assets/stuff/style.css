@@ -33,6 +33,13 @@ header, footer, section {
 header {
   font-size: 14px;
   text-transform: uppercase; }
+  header img{
+      width: 150px !important;l
+      height:150px;
+  }
+  header p {
+      margin-bottom: 18px;
+  }
   header hr {
     margin-bottom: 0; }
 
