@@ -10,12 +10,14 @@ rdiscount:
 google_analytics: UA-21332781-7
 timezone:         Europe/London
 paginate: 5
-links: 
+links:
   - name:         About
     url:          /about
   - name:         GitHub
     url:          http://github.com/pli88
   - name:         Twitter
     url:          http://twitter.com/pli88
+# Gems
+gems: [jekyll-paginate]    
 #   - name:         Instagram
 #     url:          http://instagram.com/muanchiou
